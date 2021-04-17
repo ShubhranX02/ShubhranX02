@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhranX02
 - 👀 I’m interested in being the best                             hehe
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning c++
 - 💞️ anything
 - 📫 idk
 
